@@ -22,6 +22,8 @@ Before inputting the area, put a prompt on the screen like this:
 What is the area? _
 ```
 
+The underscore represents a numerical input. The area can be any positive decimal number `x` in the range `0 ≤ x ≤ 2147483647`.
+
 ## Sample Input/Output
 
 ```
