@@ -2,9 +2,32 @@
 
 ## Problem Statement
 
+The area of a circle is given by:
+
+> `area = π(r²)`
+
+Now, suppose we knw the area and wish to find `r`. Solving for `r` from this equation yields:
+
+> `√(area / π)`
+
+Write a program that uses `sqrt()` and `PI` from the `Math` class to solve for the radius of a circle. Use the keyboard input to specify the area (provide the possibility of area being a decimal fraction).
+
+Write out your solution by hand and then enter it into the computer and run.
+
 ## Input Description
 
+Before inputting the area, put a prompt on the screen like this:
+
+```
+What is the area? _
+```
+
 ## Sample Input/Output
+
+```
+What is the area? 64.5
+Radius of your circle is 4.531
+```
 
 ## Submission
 
