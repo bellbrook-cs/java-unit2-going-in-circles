@@ -1,5 +1,5 @@
 run = "javac *.java && java Main"
 language = "java10"
-onBoot = "jshell"
+onBoot = "rm -rf .git && git init"
 
 entryPoint = "Main.java"
