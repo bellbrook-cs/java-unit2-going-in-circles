@@ -1,4 +1,5 @@
 run = "javac *.java && java Main"
 language = "java10"
+onBoot = "rm -rf .git"
 
 entryPoint = "Main.java"
